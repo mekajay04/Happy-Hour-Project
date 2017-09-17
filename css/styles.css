@@ -17,8 +17,8 @@ html, body {
 }
 
 #barHeading {
-    margin-top: 200px;
-    margin-bottom: -150px;
+    margin-top: 300px;
+    margin-bottom: -195px;
 }
 
 #hr {
@@ -93,7 +93,7 @@ h1 {
 
 .pictures {
     margin-top: 10px;
-    margin-left: 200px;
+    margin-left: 280px;
     width: 1024px;
 }
 
@@ -101,12 +101,12 @@ h1 {
     position: relative;
     top: 60px;
     text-align: center;
-    margin-left: 270px;
+    margin-left: 340px;
     max-width: 940px;
 }
 
 #week {
-    margin-left: 620px;
+    margin-left: 680px;
     margin-top: 50px;
 }
 
